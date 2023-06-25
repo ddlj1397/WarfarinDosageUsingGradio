@@ -1,2 +1,2 @@
 # WarfarinDosageUsingGradio
-Project to estimate warfarin dosage using Gradio app.
+Project to estimate warfarin dosage using Gradio app. Needs updating to fit new releases
